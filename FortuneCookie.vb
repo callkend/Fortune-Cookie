@@ -9,7 +9,7 @@ Option Strict On
 
 Module FortuneCookie
 
-    Sub main()
+    Sub Main()
         Dim randomNumber As Int16
 
         'Generates a random number.
