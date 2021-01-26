@@ -1,4 +1,13 @@
-﻿Module FortuneCookie
+﻿'Kendall Callister
+'RCET0265
+'Spring 2021
+'Fortune Cookie
+'https://github.com/callkend/Fortune-Cookie.git
+
+Option Explicit On
+Option Strict On
+
+Module FortuneCookie
 
     Sub main()
         Dim randomNumber As Int16
