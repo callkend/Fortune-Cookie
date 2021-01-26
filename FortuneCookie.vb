@@ -14,7 +14,7 @@ Module FortuneCookie
 
         'Generates a random number.
         VBMath.Randomize()
-        randomNumber = Int(3 * Rnd() + 1)
+        randomNumber = CShort(Int(3 * Rnd() + 1))
 
         'random number generates a fortune
         Select Case randomNumber
